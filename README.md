@@ -1,2 +1,5 @@
 # My Portfolio 
- Hello , I am Sparsh Singh Rathore and I am from Lucknow.
+ Hi , I am Sparsh .
+ I know 
+ 1. CSS
+ 2. JS
