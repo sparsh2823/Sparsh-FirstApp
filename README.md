@@ -1,2 +1,2 @@
 # My Portfolio 
- Hello , I am Sparsh Singh Rathore and I am from Lucknow.
+ Hello , I am Sparsh Singh Rathore and I am working on frontend development.
